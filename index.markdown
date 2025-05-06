@@ -31,7 +31,7 @@ When taking a look at the star ratings of the reviews left by users, we can see 
   <img src="Pictures/star_rating_distribution.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
   <figcaption><strong>Figure 1:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
 </figure>
-
+However, when taking a look at the star ratings of the restaurants, we can see that the majority of restaurants are rated 3.5 stars or higher indicating that most restaurants in Philadelphia are rated positively. There are still a significant number of restaurants rated 3 stars or lower. In this project we will try and discover patterns that could explain which restaurants are rated positively and which ones are rated negatively.
 <figure>
   <img src="Pictures/star_rating_distribution_businesses.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
   <figcaption><strong>Figure 2:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
