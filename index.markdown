@@ -24,16 +24,23 @@ In this project, we dive into Yelp data from Philadelphia to find patterns in ho
 
 We use different kinds of visualizations, both simple charts and interactive tools, to help you explore the data yourself. In the end, this story will help you navigate the food scene in Philadelphia using real Yelp reviews.
 
+## The people of Phildelphia love their food
+Philadelphia is a city known for its rich history and diverse culture, and its food scene is no exception. From cheesesteaks to soft pretzels, the city has a wide variety of culinary delights. But what do the people of Philadelphia really think about their food? To find out, we analyzed Yelp reviews from the city to see how people rate their dining experiences. 
+When taking a look at the star ratings of the reviews left by users, we can see that the majority of reviews are rated 4 stars or higher. This suggests that people in Philadelphia generally have a positive view of their dining experiences. However, there are still a significant number of reviews rated 1 star, indicating that not all experiences are positive.
 <figure>
   <img src="Pictures/star_rating_distribution.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
   <figcaption><strong>Figure 1:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
 </figure>
 
-
 <figure>
   <img src="Pictures/star_rating_distribution_businesses.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
   <figcaption><strong>Figure 2:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
 </figure>
+
+
+## What food categories do the people of Philadelphia enjoy the most?
+There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
+
 
 <figure>
   <img src="Pictures/reviews_per_hour.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
