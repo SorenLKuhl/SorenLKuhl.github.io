@@ -15,7 +15,9 @@
 # Website
 <img src="Pictures/yelp-red-1920.jpg" alt="Yelp background" style="width: 100%; max-height: 400px; object-fit: cover;">
 
-In this project, we dive into Yelp data from Philadelphia to find patterns in how people leave restaurant reviews, not just what they say, but when and where they say it. We explore questions like:
+Yelp is a service, that makes the user able to publish reviews about all kinds of businesses. An article from Yelp for Business [^1] shows that 96% of people on Yelp compare different places before deciding where to go. A dataset from Yelp's website contains data about around 150.000 different business with around 7.000.000 reviews.    
+
+In this project, we dive into Yelp data from Philadelphia to find patterns in how people leave restaurant reviews to explore when and where they say it. We explore questions like:
 
 - What time of day are most reviews written?
 - Do star ratings change depending on the time?
@@ -41,10 +43,8 @@ However, when taking a look at the star ratings of the restaurants, we can see t
 ## What food categories do the people of Philadelphia enjoy the most?
 There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
 
-
-
 ## When does people make their reviews?
-A blog post from MadMobile[^1] says that the busiest time for restaurants is between 6 PM and 9 PM. You might think, that people using Yelp often write reviews after dinner or later at night when they get back home. The charts below shows that this is true in Philadelphia. Most reviews are written in the evening or late at night.
+A blog post from MadMobile[^2] says that the busiest time for restaurants is between 6 PM and 9 PM. You might think, that people using Yelp often write reviews after dinner or later at night when they get back home. The charts below shows that this is true in Philadelphia. Most reviews are written in the evening or late at night.
 
 The first chart shows the overall count of all star rating based on Yelp reviews. 
 <figure>
@@ -102,5 +102,6 @@ Some weak conclusions based on these plots includes:
   <figcaption><strong>Figure 8:</strong> The number of restaurants for each top 24 category.</figcaption>
 </figure>
 
-# References 
-[^1]: https://madmobile.com/blog/the-golden-hour/#:~:text=From%206%20to%209%20p.m.,to%20make%20the%20most%20revenue.
+# References
+[^1]: https://business.yelp.com/resources/articles/study-shows-high-intent-consumers-are-contacting-businesses-quickly-on-yelp/?domain=local-business
+[^2]: https://madmobile.com/blog/the-golden-hour/#:~:text=From%206%20to%209%20p.m.,to%20make%20the%20most%20revenue.
