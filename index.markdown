@@ -102,6 +102,13 @@ Some weak conclusions based on these plots includes:
   <figcaption><strong>Figure 8:</strong> The number of restaurants for each top 24 category.</figcaption>
 </figure>
 
+# Where should you go?
+
+<figure>
+  <iframe src="Pictures/philadelphia_restaurant_map.html" width="1000" height="750"> </iframe>
+  <figcaption><strong>Figure 8:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
+</figure>
+
 # References
 [^1]: https://business.yelp.com/resources/articles/study-shows-high-intent-consumers-are-contacting-businesses-quickly-on-yelp/?domain=local-business
 [^2]: https://madmobile.com/blog/the-golden-hour/#:~:text=From%206%20to%209%20p.m.,to%20make%20the%20most%20revenue.
