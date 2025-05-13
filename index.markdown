@@ -95,7 +95,7 @@ Some weak conclusions based on these plots includes:
 There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
 <figure>
   <img src="Pictures/category_counts.png" alt="Star Rating Distribution" style="width:150%; max-width:1000px;">
-  <figcaption><strong>Figure 8:</strong> The number of restaurants for each top 24 category.</figcaption>
+  <figcaption><strong>Figure 7:</strong> The number of restaurants for each top 24 category.</figcaption>
 </figure>
 When ignoring 'Nightlife' and 'Bars' as these aren't known for their food options, it appears (based solely on the number of restaurants) that pizza and sandwiches are among the most popular categories in Philliadelphia. 
 
@@ -106,7 +106,7 @@ All in all it can be hard to conclude anything with certainty based on the distr
 
 <figure>
   <iframe src="Pictures/restaurant_star_ratings_distribution2.html" width="1000" height="750"> </iframe>
-  <figcaption><strong>Figure 7:</strong> Distribution of star ratings for different restaurant categories.</figcaption>
+  <figcaption><strong>Figure 8:</strong> Distribution of star ratings for different restaurant categories.</figcaption>
 </figure>
 
 # Where should you go?
