@@ -110,11 +110,20 @@ All in all it can be hard to conclude anything with certainty based on the distr
 </figure>
 
 # Where should you go?
+With Philadelphia being such a large city, deciding where to go for food can be daunting. If you are new in town or unfamiliar with the different neighbourhoods, an overview of which areas are the most well liked by reviewers could help make the decision of where to go looking for the next meal or coffee. This overview is excactly what we aim to give in this section. 
 
+We have divided the city into grids, each around a couple of kilometers wide/tall. Each of these grid will then display its average rating 1.0-5.0 through a color (red to green). The individual restaurants in the grid are also shown as dots which can be clicked on for its name, rating and category. Initially, the map displays all restaurants, but through toggling categories in the right side you can see the best areas for a specific category or a combination of multiple.
 <figure>
   <iframe src="Pictures/philadelphia_restaurant_map.html" width="1300" height="750"> </iframe>
   <figcaption><strong>Figure 9:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
 </figure>
+Generally, we see that the restaurants are highly concentrated in the city center for all categories and that the average rating there is quite high. When moving away from the city the ratings drop slightly, but so does the number of restaurants, lessening the usefullness of the metric.
+
+We see that certain categories score quite low compared to the average, e.g. 'Fast Food' and 'Burgers, hinting that this city may not be the best place for these items. It is also very likely that these categories score lower simply due to the nature of fast food being lower quality in most cases.
+
+Some categories cluster even closer together in very specific locations. For example a large number of bars are located in a small area just south of the Benjamin Franklin Bridge, indicating a popular area to go out for drink. We also see chinese restaurants clustering in Philadelphia's 'China town'.
+
+To sum up, the map provides an overview of Philadelphia in regards to how well areas are reviewed for specific categories as well as which individual restarurants are rated highly.
 
 # Discussion
 In this project, we looked at Yelp reviews in Philadelphia to help you guys to decide where to eat, what kind of food to try, and when to go. We have used different types of charts so you can explore the data yourself.
