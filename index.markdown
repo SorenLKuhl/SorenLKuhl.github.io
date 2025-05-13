@@ -33,12 +33,12 @@ Philadelphia is a city known for its rich history and diverse culture, and its f
 When taking a look at the star ratings of the reviews left by users, we can see that the majority of reviews are rated 4 stars or higher. This suggests that people in Philadelphia generally have a positive view of their dining experiences. However, there are still a significant number of reviews rated 1 star, indicating that not all experiences are positive.
 <figure>
   <img src="Pictures/star_rating_distribution.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
-  <figcaption><strong>Figure 1:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
+  <figcaption><strong>Figure 1:</strong> Distribution of star ratings in reviews of Philadelphia restaurants.</figcaption>
 </figure>
 However, when taking a look at the star ratings of the restaurants, we can see that the majority of restaurants are rated 3.5 stars or higher indicating that most restaurants in Philadelphia are rated positively. There are still a significant number of restaurants rated 3 stars or lower. In this project we will try and discover patterns that could explain which restaurants are rated positively and which ones are rated negatively.
 <figure>
   <img src="Pictures/star_rating_distribution_businesses.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
-  <figcaption><strong>Figure 2:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
+  <figcaption><strong>Figure 2:</strong> Distribution of star ratings of Philadelphia restaurants.</figcaption>
 </figure>
 
 ## When does people make their reviews?
@@ -93,22 +93,27 @@ Some weak conclusions based on these plots includes:
 
 ## What food categories do the people of Philadelphia enjoy the most?
 There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
+<figure>
+  <img src="Pictures/category_counts.png" alt="Star Rating Distribution" style="width:150%; max-width:1000px;">
+  <figcaption><strong>Figure 8:</strong> The number of restaurants for each top 24 category.</figcaption>
+</figure>
+When ignoring 'Nightlife' and 'Bars' as these aren't known for their food options, it appears (based solely on the number of restaurants) that pizza and sandwiches are among the most popular categories in Philliadelphia. 
+
+However, when taking a look at the distribution of the star ratings of the restaurants in each category it can be seen that sandwich restaurants are quite a bit more popular than the pizza ones. Pizza restaurants are however still having a generally positive star of rating of the majority of the restaurants having averages above 3.0. This is not the case for burger restaurants that appear to be the worst performing. Here it can be seen that there is quite a siginificant amount of 2 star rated businesses. On the other hand japanese food is extremely popular with having one of the most right leaning curves. 
+
+
+All in all it can be hard to conclude anything with certainty based on the distribution alone. Firstly. the number of restaurants vary a lot and can give unfair comparisons. Secondly, some categories, such as burgers, are more represented in the fastfood industry which isn't known for it's quality of food. This can make comparisons to categories, such as japanese, a bit unfair as these usually have a reputation for being of higher quality. 
 
 <figure>
   <iframe src="Pictures/restaurant_star_ratings_distribution.html" width="1000" height="750"> </iframe>
   <figcaption><strong>Figure 7:</strong> Distribution of star ratings for different restaurant categories.</figcaption>
 </figure>
 
-<figure>
-  <img src="Pictures/category_counts.png" alt="Star Rating Distribution" style="width:100%; max-width:600px;">
-  <figcaption><strong>Figure 8:</strong> The number of restaurants for each top 24 category.</figcaption>
-</figure>
-
 # Where should you go?
 
 <figure>
-  <iframe src="Pictures/philadelphia_restaurant_map.html" width="1000" height="750"> </iframe>
-  <figcaption><strong>Figure 8:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
+  <iframe src="Pictures/philadelphia_restaurant_map.html" width="1300" height="750"> </iframe>
+  <figcaption><strong>Figure 9:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
 </figure>
 
 # Discussion
