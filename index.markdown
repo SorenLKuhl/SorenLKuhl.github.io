@@ -5,8 +5,10 @@
 # layout: home
 
 ---
-# Get inspired
-[YOLO](https://www.youtube.com/watch?v=KWMyxIHmReE&pp=ygULbmVkZSBzw7hyZW4%3D)
+# Group 4 - Project Assignment B for DTU Course 02247
+If you are interested in a more technical point of view regarding this topic, you can click on the link below the section "Explainer notebook link below". Our website with visualizations starts below the section "Website".
+
+This project is presented by Søren (s216161), Johannes (204399) and Oliver (s214929).
 
 # Explainer notebook link below
 
@@ -22,7 +24,7 @@ In this project, we dive into Yelp data from Philadelphia to find patterns in ho
 - What time of day are most reviews written?
 - Do star ratings change depending on the time?
 - Are there areas of the city with better restaurant experiences?
-- Which business categories are the most popular?
+- Which business categories are the most popular, i.e. what type of food should you look for?
 
 We use different kinds of visualizations, both simple charts and interactive tools, to help you explore the data yourself. In the end, this story will help you navigate the food scene in Philadelphia using real Yelp reviews from 2005 to 2022.
 
@@ -108,6 +110,15 @@ There are lots of different restaurants in Philadelphia each covering a wide ran
   <iframe src="Pictures/philadelphia_restaurant_map.html" width="1000" height="750"> </iframe>
   <figcaption><strong>Figure 8:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
 </figure>
+
+# Discussion
+In this project, we looked at Yelp reviews in Philadelphia to help you guys to decide where to eat, what kind of food to try, and when to go. We have used different types of charts so you can explore the data yourself.
+
+By focusing on just one city, the results were easier to understand. Looking at ratings by category, time, and location gave us a good overview of the restaurant situation.
+
+There are still things that could be better. Review times do not always show when people actually ate at the restaurant, so time-based patterns might not be 100% accurate. We also did not look at the review text or information about the users, which could have given more insight.
+
+Overall, the project tells a clear and helpful story using data, which gives people a fun way to explore food in Philadelphia.
 
 # References
 [^1]: https://business.yelp.com/resources/articles/study-shows-high-intent-consumers-are-contacting-businesses-quickly-on-yelp/?domain=local-business
