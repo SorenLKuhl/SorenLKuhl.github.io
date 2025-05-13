@@ -105,7 +105,7 @@ However, when taking a look at the distribution of the star ratings of the resta
 All in all it can be hard to conclude anything with certainty based on the distribution alone. Firstly. the number of restaurants vary a lot and can give unfair comparisons. Secondly, some categories, such as burgers, are more represented in the fastfood industry which isn't known for it's quality of food. This can make comparisons to categories, such as japanese, a bit unfair as these usually have a reputation for being of higher quality. 
 
 <figure>
-  <iframe src="Pictures/restaurant_star_ratings_distribution.html" width="1000" height="750"> </iframe>
+  <iframe src="Pictures/restaurant_star_ratings_distribution2.html" width="1000" height="750"> </iframe>
   <figcaption><strong>Figure 7:</strong> Distribution of star ratings for different restaurant categories.</figcaption>
 </figure>
 
