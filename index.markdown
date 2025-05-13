@@ -39,10 +39,6 @@ However, when taking a look at the star ratings of the restaurants, we can see t
   <figcaption><strong>Figure 2:</strong> Distribution of star ratings in Philadelphia restaurants.</figcaption>
 </figure>
 
-
-## What food categories do the people of Philadelphia enjoy the most?
-There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
-
 ## When does people make their reviews?
 A blog post from MadMobile[^2] says that the busiest time for restaurants is between 6 PM and 9 PM. You might think, that people using Yelp often write reviews after dinner or later at night when they get back home. The charts below shows that this is true in Philadelphia. Most reviews are written in the evening or late at night.
 
@@ -91,6 +87,10 @@ Some weak conclusions based on these plots includes:
 1. Based on the plot, a user might prefer to visit Pat’s Pizzeria either at lunchtime or late in the evening, as those are the times when reviews tend to be more positive.
 2. Based on the trend, the best time to visit seems to be at the end of peak periods, like after lunch, dinner, or late-night hours. In contrast, this business appears to be a poor choice for breakfast, as early reviews tend to be lower.
 3. Interestingly, the lowest ratings are typically posted outside of business hours. This could suggest that customers had time to reflect on their experience before writing a more critical review. However, there are also a few 5-star reviews posted in the morning, indicating that not all delayed reviews are negative.
+
+
+## What food categories do the people of Philadelphia enjoy the most?
+There are lots of different restaurants in Philadelphia each covering a wide range of food categories. But which ones are the most popular? To find out, we looked at the number of restaurants in each category. The top 24 categories are shown below.
 
 <figure>
   <iframe src="Pictures/restaurant_star_ratings_distribution.html" width="1000" height="750"> </iframe>
