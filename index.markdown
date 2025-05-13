@@ -114,7 +114,7 @@ With Philadelphia being such a large city, deciding where to go for food can be 
 
 We have divided the city into grids, each around a couple of kilometers wide/tall. Each of these grid will then display its average rating 1.0-5.0 through a color (red to green). The individual restaurants in the grid are also shown as dots which can be clicked on for its name, rating and category. Initially, the map displays all restaurants, but through toggling categories in the right side you can see the best areas for a specific category or a combination of multiple.
 <figure>
-  <iframe src="Pictures/philadelphia_restaurant_map.html" width="780" height="450"> </iframe>
+  <iframe src="Pictures/philadelphia_restaurant_map.html" width="910" height="525"> </iframe>
   <figcaption><strong>Figure 9:</strong> Areas of Philadelphia and their average rating along with individual restaurants.</figcaption>
 </figure>
 Generally, we see that the restaurants are highly concentrated in the city center for all categories and that the average rating there is quite high. When moving away from the city the ratings drop slightly, but so does the number of restaurants, lessening the usefullness of the metric.
